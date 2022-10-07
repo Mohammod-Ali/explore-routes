@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/explore-routes/static/css/main.31a3f6c6.css",
+    "main.js": "/explore-routes/static/js/main.27f89d14.js",
+    "static/js/787.0b383d09.chunk.js": "/explore-routes/static/js/787.0b383d09.chunk.js",
+    "index.html": "/explore-routes/index.html",
+    "main.31a3f6c6.css.map": "/explore-routes/static/css/main.31a3f6c6.css.map",
+    "main.27f89d14.js.map": "/explore-routes/static/js/main.27f89d14.js.map",
+    "787.0b383d09.chunk.js.map": "/explore-routes/static/js/787.0b383d09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31a3f6c6.css",
+    "static/js/main.27f89d14.js"
+  ]
+}
